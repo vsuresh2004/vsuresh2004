@@ -7,7 +7,7 @@
 </h3>
 
 <p align='left'>
-  🌱 Some fun fatcs about me: <br/>
+  🌱 Some fun facts about me: <br/>
     <ul>
       <li>🔭 I like astronomy. </li>
       <li>👯 I’m trilingual. </li>
